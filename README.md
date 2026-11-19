@@ -143,13 +143,13 @@
 
 <br/>
 
-<!-- Project 3: Hela Rewla -->
+<!-- Project 3: Hela Rewla Katagessama -->
 <table align="center" width="100%" style="border: 2px solid #ff7700; border-radius: 12px; background-color: #0b0c10; margin-bottom: 25px;">
   <tr>
     <td style="padding: 24px 28px; background: linear-gradient(135deg, #101216 0%, #160d00 100%); border-radius: 10px;">
       <div style="display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #331800; padding-bottom: 12px; margin-bottom: 14px;">
         <h2 style="color: #ff8c00; margin: 0; font-size: 21px; letter-spacing: 0.5px;">
-          💈 Hela Rewla – Premium Grooming &amp; Booking Management Platform
+          🍲 Hela Rewla Katagessama – Traditional Authentic Restaurant &amp; Food Ordering Web App
         </h2>
         <div>
           <a href="https://github.com/sandunawa/hela_rewla">
@@ -158,17 +158,17 @@
         </div>
       </div>
       <p style="color: #d8dde6; font-size: 14.5px; line-height: 1.6; margin-bottom: 16px;">
-        A dedicated digital booking, customer management, and operations platform crafted for modern barbering and salon enterprises, elevating client experience through seamless scheduling.
+        An authentic Sri Lankan culinary platform and online dining experience crafted for <b>Hela Rewla Katagessama (හෙළ රැවුල කටගැස්ම)</b>, showcasing heritage Sri Lankan flavours, signature bites, and fresh local culinary delights.
       </p>
       <div style="background-color: #08090b; border-left: 3px solid #ff7700; border-radius: 4px; padding: 12px 18px; margin-bottom: 16px;">
-        <p style="color: #e0e0e0; margin: 4px 0; font-size: 13.5px;"><b>⚡ Core Capabilities:</b> Real-time appointment scheduling &bull; Dynamic service catalog &bull; Automated client reminders</p>
-        <p style="color: #e0e0e0; margin: 4px 0; font-size: 13.5px;"><b>📱 User Experience:</b> Mobile-first responsive UI &bull; Fast client checkouts &bull; Stylist schedule management</p>
-        <p style="color: #e0e0e0; margin: 4px 0; font-size: 13.5px;"><b>🎯 Mission:</b> Optimizing salon booking flows, zero scheduling conflicts, and maximized customer retention</p>
+        <p style="color: #e0e0e0; margin: 4px 0; font-size: 13.5px;"><b>🍛 Culinary Experience:</b> Traditional Sri Lankan bites, Katagessama delicacies, authentic spices &amp; signature dishes</p>
+        <p style="color: #e0e0e0; margin: 4px 0; font-size: 13.5px;"><b>⚡ Digital Platform:</b> Interactive dynamic food &amp; beverage menu, live dish availability, and seamless online food ordering</p>
+        <p style="color: #e0e0e0; margin: 4px 0; font-size: 13.5px;"><b>🎨 Presentation:</b> Cultural rustic aesthetic combined with modern responsive food ordering workflows</p>
       </div>
       <div>
-        <img src="https://img.shields.io/badge/Booking_Platform-121212?style=flat-square&logo=googlecalendar&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
-        <img src="https://img.shields.io/badge/Full_Stack-121212?style=flat-square&logo=javascript&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
-        <img src="https://img.shields.io/badge/Mobile_First-121212?style=flat-square&logo=flutter&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
+        <img src="https://img.shields.io/badge/Restaurant_Web_App-121212?style=flat-square&logo=food&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
+        <img src="https://img.shields.io/badge/Online_Ordering-121212?style=flat-square&logo=fastapi&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
+        <img src="https://img.shields.io/badge/Authentic_Cuisine-121212?style=flat-square&logo=coffeescript&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
       </div>
     </td>
   </tr>
