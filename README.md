@@ -5,121 +5,119 @@
 
 <br/><br/>
 
+<!-- Neon Amber Typing SVG Animation -->
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Sandun+Wijesingha!+👋;Software+Engineer+%7C+Co-Founder;AI+%26+Machine+Learning+Enthusiast;Building+Innovative+Software+Solutions">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Sandun+Wijesingha!+👋;Software+Engineer+%7C+Co-Founder;AI+%26+Machine+Learning+Enthusiast;Building+Innovative+Software+Solutions" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+A.W.A.+Sandun+Wijesingha!+👋;Software+Engineer+%7C+Co-Founder;AI+%26+Machine+Learning+Practitioner;Building+Innovative+Solutions+for+a+Better+Tomorrow">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+A.W.A.+Sandun+Wijesingha!+👋;Software+Engineer+%7C+Co-Founder;AI+%26+Machine+Learning+Practitioner;Building+Innovative+Solutions+for+a+Better+Tomorrow" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Social Connect Badges -->
+<!-- Social Connect Badges (Custom Amber / Charcoal Neon Palette) -->
 <p align="center">
   <a href="https://github.com/sandunawa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=FF8C00&borderColor=FF8C00" alt="GitHub" />
   </a>
   <a href="mailto:sandun@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=FF8C00" alt="Email" />
   </a>
   <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=FF8C00" alt="LinkedIn" />
   </a>
 </p>
 
-<!-- Profile Views Counter -->
+<!-- Profile Views Counter in Neon Amber -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandunawa&label=Profile%20Views&color=ff7700&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sandunawa&label=PROFILE%20VIEWS&color=ff6b00&style=for-the-badge" alt="Profile views" />
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 <span style="color:#FF7700">About Me</span>
 
 ```yaml
-Name: A.W.A. Sandun Wijesingha
-Role: Software Engineer | Co-Founder | Technology Enthusiast
-Education: Faculty of Computing, Sri Lanka Institute of Information Technology (SLIIT)
-Focus_Areas: [Artificial Intelligence, Machine Learning, Full-Stack Engineering]
-Current_Interests: [Predictive Modeling, Cloud Architecture, Scalable Systems]
-Motto: "Building Innovative Software Solutions for a Better Tomorrow..."
-Location: Sri Lanka 🇱🇰
+Identity: A.W.A. Sandun Wijesingha
+Designation: Software Engineer | Co-Founder | Technology Enthusiast
+Institution: Faculty of Computing, Sri Lanka Institute of Information Technology (SLIIT)
+Specializations: [Artificial Intelligence, Machine Learning, Full-Stack Architecture]
+Core_Pillars: [Clean Code, Scalable Systems, Autonomous AI Workflows]
+Signature_Quote: "Building Innovative Software Solutions for a Better Tomorrow..."
+Geographic_Base: Colombo, Sri Lanka 🇱🇰
+Status: Open for collaborative engineering & high-impact ventures
 ```
 
-- 🎓 **Undergraduate** specializing in Information Technology & Artificial Intelligence.
-- 💡 Experience in end-to-end Machine Learning pipelines, model benchmarking, and cross-validation protocols.
-- 🛠️ Building reliable software solutions with clean architecture and maintainable code.
-- 🎯 Always eager to tackle real-world problems through data-driven decisions and intelligent automation.
+- 🎯 **Undergraduate Researcher** focusing on Machine Learning regression architectures, empirical validation, and leakage-safe pipelines.
+- ⚡ **Engineering Mindset:** Bridging theoretical AI algorithms with scalable production services.
+- 💡 **Passion:** Designing intuitive, high-performance systems with an emphasis on developer ergonomics and modular design.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🛠️ <span style="color:#FF7700">Tech Stack & Ecosystem</span>
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,dart,cpp,js,ts,html,css" /> |
-| **Mobile & Cross-Platform** | <img src="https://skillicons.dev/icons?i=flutter" /> |
-| **AI / ML & Data** | <img src="https://skillicons.dev/icons?i=scikit_learn,tensorflow,pytorch,opencv" /> |
-| **Data Analysis** | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square&logo=python&logoColor=white" /> |
-| **Backend & Web** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,gcp" /> |
+| **Core Languages** | <img src="https://skillicons.dev/icons?i=python,java,dart,cpp,js,ts,html,css&theme=dark" /> |
+| **Mobile & Cross-Platform** | <img src="https://skillicons.dev/icons?i=flutter&theme=dark" /> |
+| **AI, ML & Deep Learning** | <img src="https://skillicons.dev/icons?i=scikit_learn,tensorflow,pytorch,opencv&theme=dark" /> |
+| **Data Engineering & Science** | <img src="https://img.shields.io/badge/Pandas-121212?style=for-the-badge&logo=pandas&logoColor=FF8C00" /> <img src="https://img.shields.io/badge/NumPy-121212?style=for-the-badge&logo=numpy&logoColor=FF8C00" /> <img src="https://img.shields.io/badge/Matplotlib-121212?style=for-the-badge&logo=python&logoColor=FF8C00" /> <img src="https://img.shields.io/badge/Seaborn-121212?style=for-the-badge&logo=python&logoColor=FF8C00" /> |
+| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" /> |
+| **Databases & Storage** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" /> |
+| **DevOps, Cloud & Tooling** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,gcp&theme=dark" /> |
 
 </div>
 
 ---
 
-### 🌟 Featured Repositories & Research Work
+### 🌟 <span style="color:#FF7700">Featured Showcase</span>
 
-<table>
+<table border="0" width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center">🚲 Seoul Bike Sharing Demand Prediction</h3>
-      <p align="center">
+    <td width="55%" valign="top">
+      <h3>🚲 Seoul Bike Sharing Demand Prediction</h3>
+      <p>
+        An end-to-end Machine Learning research benchmark evaluating <b>6 regression models</b> with strict chronological time-series cross-validation on 8,760 hourly records from UCI.
+      </p>
+      <ul>
+        <li><b>Framework:</b> Scikit-Learn, Pandas, NumPy, TimeSeriesSplit</li>
+        <li><b>Benchmark Winner:</b> Random Forest Regressor (Test $R^2 = 0.737$, Test MAE $= 216.80$)</li>
+        <li><b>Report:</b> Full academic paper published directly in repository.</li>
+      </ul>
+      <p>
         <a href="https://github.com/sandunawa/seoul-bike-demand-prediction-2nd-Year-1st-Sem-AI-ML-Project-">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandunawa&repo=seoul-bike-demand-prediction-2nd-Year-1st-Sem-AI-ML-Project-&theme=tokyonight&border_radius=10" width="100%" />
+          <img src="https://img.shields.io/badge/View_Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
         </a>
       </p>
-      <ul>
-        <li><b>Domain:</b> Supervised Regression & Urban Mobility.</li>
-        <li><b>Techniques:</b> TimeSeriesSplit, Leakage-safe Preprocessing, Hyperparameter Tuning across 6 algorithms.</li>
-        <li><b>Outcome:</b> Best model (Random Forest) achieved $R^2 = 0.737$ and Test MAE $= 216.80$.</li>
-      </ul>
     </td>
-    <td width="50%">
-      <h3 align="center">🚀 Ongoing AI & Software Projects</h3>
-      <p align="center">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,22&height=120&text=More+Exciting+Work+Coming+Soon!&fontSize=16&fontColor=ffffff" width="100%" />
-      </p>
-      <ul>
-        <li>Full-stack data-intensive web & mobile applications.</li>
-        <li>Deep learning exploration for computer vision & predictive intelligence.</li>
-        <li>Open-source contributions and algorithmic challenges.</li>
-      </ul>
+    <td width="45%" align="center" valign="middle">
+      <a href="https://github.com/sandunawa/seoul-bike-demand-prediction-2nd-Year-1st-Sem-AI-ML-Project-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandunawa&repo=seoul-bike-demand-prediction-2nd-Year-1st-Sem-AI-ML-Project-&bg_color=0b0c10&text_color=e0e0e0&icon_color=ff7700&title_color=ff7700&border_color=ff7700" width="100%" />
+      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 📊 <span style="color:#FF7700">GitHub Analytics & Metrics</span>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandunawa&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandunawa&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" width="48%" />
+  <!-- Stats Card (Custom Dark & Glowing Orange) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sandunawa&show_icons=true&bg_color=0b0c10&text_color=e0e0e0&icon_color=ff7700&title_color=ff7700&border_color=ff7700&hide_border=false&border_radius=12&count_private=true" width="48.5%" />
+  <!-- Top Languages (Custom Dark & Glowing Orange) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandunawa&layout=compact&bg_color=0b0c10&text_color=e0e0e0&title_color=ff7700&border_color=ff7700&hide_border=false&border_radius=12" width="48.5%" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandunawa&theme=tokyonight&hide_border=false&border_radius=10" width="97%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandunawa&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <!-- Streak Stats (Custom Dark & Glowing Orange) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandunawa&background=0b0c10&stroke=ff7700&sideLabels=ff7700&dates=e0e0e0&ring=ff7700&fire=ff7700&currStreakLabel=ff7700&border=ff7700&border_radius=12" width="98%" alt="GitHub Streak" />
 </p>
 
 ---
 
 <div align="center">
+  <!-- Custom Neon Orange Gradient Footer Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,22&height=90&section=footer" width="100%" />
 </div>
