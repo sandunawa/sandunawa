@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<!-- Social Connect Badges (Custom Amber / Charcoal Neon Palette) -->
+<!-- Social Connect Badges -->
 <p align="center">
   <a href="https://github.com/sandunawa">
     <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=FF8C00" alt="GitHub" />
@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<!-- Profile Views Counter in Neon Amber -->
+<!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sandunawa&label=PROFILE%20VIEWS&color=ff6b00&style=for-the-badge" alt="Profile views" />
 </p>
@@ -35,54 +35,15 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,12,25&height=40&text=⚡%20ABOUT%20ME%20&fontSize=18&fontColor=ff7700" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,12,25&height=40&text=⚡%20ABOUT%20ME&fontSize=18&fontColor=ff7700" width="100%" />
 </div>
 
 <br/>
 
-<table align="center" width="100%" style="border: 2px solid #ff7700; border-radius: 12px; background-color: #0b0c10;">
-  <tr>
-    <td width="35%" align="center" style="background: linear-gradient(180deg, #121212 0%, #1a0f00 100%); border-right: 2px solid #ff7700; border-radius: 10px 0 0 10px; padding: 25px;">
-      <h2 style="color: #ff8c00; margin-bottom: 4px;">A.W.A. Sandun</h2>
-      <h3 style="color: #e0e0e0; margin-top: 0; letter-spacing: 2px;">WIJESINGHA</h3>
-      <p style="color: #ffaa44; font-weight: bold; font-size: 13px;">Software Engineer &bull; Co-Founder</p>
-      <hr style="border: 0; height: 1px; background: linear-gradient(90deg, transparent, #ff7700, transparent); margin: 15px 0;">
-      <p style="color: #b0b0b0; font-style: italic; font-size: 12.5px; line-height: 1.5;">
-        &ldquo;Building Innovative Software Solutions for a Better Tomorrow...&rdquo;
-      </p>
-      <br/>
-      <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-FF6B00?style=for-the-badge&logo=rocket&logoColor=white" />
-    </td>
-    <td width="65%" style="padding: 20px 30px; background-color: #0b0c10; border-radius: 0 10px 10px 0;">
-      <table width="100%" cellpadding="6" style="border: none;">
-        <tr>
-          <td width="30%" style="color: #ff8c00; font-weight: bold;">🏛️ Institution</td>
-          <td style="color: #f0f0f0;">Faculty of Computing, <b>SLIIT</b> (Undergraduate)</td>
-        </tr>
-        <tr>
-          <td style="color: #ff8c00; font-weight: bold;">📍 Location</td>
-          <td style="color: #f0f0f0;">Colombo, Sri Lanka 🇱🇰</td>
-        </tr>
-        <tr>
-          <td style="color: #ff8c00; font-weight: bold;">🎯 Specializations</td>
-          <td>
-            <img src="https://img.shields.io/badge/Artificial_Intelligence-121212?style=flat-square&color=121212&labelColor=FF6B00" />
-            <img src="https://img.shields.io/badge/Machine_Learning-121212?style=flat-square&color=121212&labelColor=FF6B00" />
-            <img src="https://img.shields.io/badge/Full_Stack_Dev-121212?style=flat-square&color=121212&labelColor=FF6B00" />
-          </td>
-        </tr>
-        <tr>
-          <td style="color: #ff8c00; font-weight: bold;">⚡ Core Focus</td>
-          <td style="color: #dcdcdc;">Predictive ML Models &bull; Scalable Cloud Backends &bull; Clean Architecture</td>
-        </tr>
-        <tr>
-          <td style="color: #ff8c00; font-weight: bold;">💬 Reach Out</td>
-          <td style="color: #dcdcdc;">Passionate about high-impact tech ventures, research & collaborative development.</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<!-- Pure Vector-Coded Cyberpunk Terminal Card (Matches Requested Design) -->
+<div align="center">
+  <img src="assets/about_card.svg" alt="About Me Cyberpunk Terminal Card" width="100%" />
+</div>
 
 <br/>
 
