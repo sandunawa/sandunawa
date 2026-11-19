@@ -1,11 +1,13 @@
 <div align="center">
 
-<!-- Header Banner & Typing Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Sandun%20A.W.A.&fontSize=50&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Engineering%20Undergraduate&descFontSize=19&descAlignY=58&fontColor=ffffff" width="100%" />
+<!-- Custom Brand Banner -->
+<img src="assets/banner.png" alt="A.W.A. Sandun Wijesingha Banner" width="100%" />
+
+<br/><br/>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sandun!+👋;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Passionate+Problem+Solver">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sandun!+👋;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Passionate+Problem+Solver" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Sandun+Wijesingha!+👋;Software+Engineer+%7C+Co-Founder;AI+%26+Machine+Learning+Enthusiast;Building+Innovative+Software+Solutions">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Sandun+Wijesingha!+👋;Software+Engineer+%7C+Co-Founder;AI+%26+Machine+Learning+Enthusiast;Building+Innovative+Software+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,7 +26,7 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandunawa&label=Profile%20Views&color=00f2fe&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sandunawa&label=Profile%20Views&color=ff7700&style=flat-square" alt="Profile views" />
 </p>
 
 </div>
@@ -34,12 +36,13 @@
 ### 👨‍💻 About Me
 
 ```yaml
-Name: Sandun A.W.A.
+Name: A.W.A. Sandun Wijesingha
+Role: Software Engineer | Co-Founder | Technology Enthusiast
 Education: Faculty of Computing, Sri Lanka Institute of Information Technology (SLIIT)
-Focus_Areas: [Machine Learning, Data Engineering, Software Architecture]
-Current_Interests: [Deep Learning, Predictive Modeling, Cloud Microservices]
+Focus_Areas: [Artificial Intelligence, Machine Learning, Full-Stack Engineering]
+Current_Interests: [Predictive Modeling, Cloud Architecture, Scalable Systems]
+Motto: "Building Innovative Software Solutions for a Better Tomorrow..."
 Location: Sri Lanka 🇱🇰
-Availability: Open for collaborations & tech discussions
 ```
 
 - 🎓 **Undergraduate** specializing in Information Technology & Artificial Intelligence.
@@ -55,12 +58,13 @@ Availability: Open for collaborations & tech discussions
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,dart,cpp,js,ts,html,css" /> |
+| **Mobile & Cross-Platform** | <img src="https://skillicons.dev/icons?i=flutter" /> |
 | **AI / ML & Data** | <img src="https://skillicons.dev/icons?i=scikit_learn,tensorflow,pytorch,opencv" /> |
 | **Data Analysis** | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square&logo=python&logoColor=white" /> |
 | **Backend & Web** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,gcp" /> |
 
 </div>
 
@@ -86,11 +90,11 @@ Availability: Open for collaborations & tech discussions
     <td width="50%">
       <h3 align="center">🚀 Ongoing AI & Software Projects</h3>
       <p align="center">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,16,26&height=120&text=More+Exciting+Work+Coming+Soon!&fontSize=16&fontColor=ffffff" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,22&height=120&text=More+Exciting+Work+Coming+Soon!&fontSize=16&fontColor=ffffff" width="100%" />
       </p>
       <ul>
-        <li>Full-stack data-intensive web applications.</li>
-        <li>Deep learning exploration for computer vision & NLP.</li>
+        <li>Full-stack data-intensive web & mobile applications.</li>
+        <li>Deep learning exploration for computer vision & predictive intelligence.</li>
         <li>Open-source contributions and algorithmic challenges.</li>
       </ul>
     </td>
@@ -117,5 +121,5 @@ Availability: Open for collaborations & tech discussions
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,22&height=90&section=footer" width="100%" />
 </div>
