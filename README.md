@@ -32,11 +32,16 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0c10&text=⚡%20ABOUT%20ME&fontSize=18&fontColor=ff7700&stroke=ff7700&strokeWidth=1.5&height=42" width="100%" />
-</div>
-
 <br/>
+
+<!-- Section 1: About Me -->
+<table align="center" width="100%" style="border-collapse: collapse; margin-bottom: 20px;">
+  <tr>
+    <td align="center" style="background: linear-gradient(90deg, #101216 0%, #1a0f00 50%, #101216 100%); border: 1.5px solid #ff7700; border-radius: 8px; padding: 10px;">
+      <h2 style="color: #ff8c00; margin: 0; font-size: 19px; letter-spacing: 2px;">⚡ ABOUT ME</h2>
+    </td>
+  </tr>
+</table>
 
 <!-- Pure High-Res Cyberpunk Terminal Card (Direct PNG Rendering) -->
 <div align="center">
@@ -47,11 +52,16 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0c10&text=🛠️%20TECH%20STACK%20%26%20ECOSYSTEM&fontSize=18&fontColor=ff7700&stroke=ff7700&strokeWidth=1.5&height=42" width="100%" />
-</div>
-
 <br/>
+
+<!-- Section 2: Tech Stack -->
+<table align="center" width="100%" style="border-collapse: collapse; margin-bottom: 20px;">
+  <tr>
+    <td align="center" style="background: linear-gradient(90deg, #101216 0%, #1a0f00 50%, #101216 100%); border: 1.5px solid #ff7700; border-radius: 8px; padding: 10px;">
+      <h2 style="color: #ff8c00; margin: 0; font-size: 19px; letter-spacing: 2px;">🛠️ TECH STACK &amp; ECOSYSTEM</h2>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -67,13 +77,20 @@
 
 </div>
 
+<br/>
+
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0c10&text=🌟%20FEATURED%20RESEARCH%20%26%20PROJECTS&fontSize=18&fontColor=ff7700&stroke=ff7700&strokeWidth=1.5&height=42" width="100%" />
-</div>
-
 <br/>
+
+<!-- Section 3: Featured Projects -->
+<table align="center" width="100%" style="border-collapse: collapse; margin-bottom: 20px;">
+  <tr>
+    <td align="center" style="background: linear-gradient(90deg, #101216 0%, #1a0f00 50%, #101216 100%); border: 1.5px solid #ff7700; border-radius: 8px; padding: 10px;">
+      <h2 style="color: #ff8c00; margin: 0; font-size: 19px; letter-spacing: 2px;">🌟 FEATURED RESEARCH &amp; PROJECTS</h2>
+    </td>
+  </tr>
+</table>
 
 <!-- Project 1: Seoul Bike Sharing Demand Prediction -->
 <table align="center" width="100%" style="border: 2px solid #ff7700; border-radius: 12px; background-color: #0b0c10; margin-bottom: 25px;">
@@ -174,13 +191,20 @@
   </tr>
 </table>
 
+<br/>
+
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0c10&text=📊%20GITHUB%20ANALYTICS%20%26%20METRICS&fontSize=18&fontColor=ff7700&stroke=ff7700&strokeWidth=1.5&height=42" width="100%" />
-</div>
-
 <br/>
+
+<!-- Section 4: GitHub Analytics -->
+<table align="center" width="100%" style="border-collapse: collapse; margin-bottom: 20px;">
+  <tr>
+    <td align="center" style="background: linear-gradient(90deg, #101216 0%, #1a0f00 50%, #101216 100%); border: 1.5px solid #ff7700; border-radius: 8px; padding: 10px;">
+      <h2 style="color: #ff8c00; margin: 0; font-size: 19px; letter-spacing: 2px;">📊 GITHUB ANALYTICS &amp; METRICS</h2>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <!-- Stats Card (Custom Dark & Glowing Orange) -->
