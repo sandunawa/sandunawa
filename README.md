@@ -75,6 +75,7 @@
 
 <br/>
 
+<!-- Project 1: Seoul Bike Sharing Demand Prediction -->
 <table border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
@@ -96,6 +97,64 @@
     <td width="45%" align="center" valign="middle">
       <a href="https://github.com/sandunawa/seoul-bike-demand-prediction-2nd-Year-1st-Sem-AI-ML-Project-">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandunawa&repo=seoul-bike-demand-prediction-2nd-Year-1st-Sem-AI-ML-Project-&bg_color=0b0c10&text_color=e0e0e0&icon_color=ff7700&title_color=ff7700&border_color=ff7700" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Project 2: Sinhala LMS -->
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🎓 Sinhala Education LMS & Tuition SaaS Platform</h3>
+      <p>
+        A modern, production-grade Educational SaaS platform and Learning Management System designed for professional educators managing Grade 6–11 (O/L) and A/L Sinhala curriculums.
+      </p>
+      <ul>
+        <li><b>Tech Stack:</b> React 18, TypeScript, Vite, Tailwind CSS, Firebase Architecture</li>
+        <li><b>Key Modules:</b> Live QR Gate Attendance Scanner, Timed Exam Engine with Auto-Grading, AI Sinhala Tutor, Video Lesson Streaming & Fee Slip Verification</li>
+        <li><b>Portals:</b> Multi-role architecture for Admin, Students, and Parents</li>
+      </ul>
+      <p>
+        <a href="https://github.com/sandunawa/sinhala-lms">
+          <img src="https://img.shields.io/badge/View_Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+        </a>
+      </p>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <a href="https://github.com/sandunawa/sinhala-lms">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandunawa&repo=sinhala-lms&bg_color=0b0c10&text_color=e0e0e0&icon_color=ff7700&title_color=ff7700&border_color=ff7700" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Project 3: Hela Rewla -->
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>💈 Hela Rewla – Premium Grooming & Booking Management Platform</h3>
+      <p>
+        A dedicated digital booking, customer management, and operations platform crafted for modern barbering and salon enterprises, elevating client experience through seamless scheduling.
+      </p>
+      <ul>
+        <li><b>Key Capabilities:</b> Real-time appointment scheduling, service catalog customization, automated client reminders, and barber workflow management</li>
+        <li><b>Architecture:</b> Mobile-responsive interface with fast booking workflows and secure client record tracking</li>
+        <li><b>Focus:</b> Streamlined salon operations, reducing scheduling conflicts and increasing customer retention</li>
+      </ul>
+      <p>
+        <a href="https://github.com/sandunawa/hela_rewla">
+          <img src="https://img.shields.io/badge/View_Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+        </a>
+      </p>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <a href="https://github.com/sandunawa/hela_rewla">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandunawa&repo=hela_rewla&bg_color=0b0c10&text_color=e0e0e0&icon_color=ff7700&title_color=ff7700&border_color=ff7700" width="100%" />
       </a>
     </td>
   </tr>
