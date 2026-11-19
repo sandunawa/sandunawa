@@ -35,15 +35,11 @@
 <br/>
 
 <!-- ==================== SECTION 1: ABOUT ME ==================== -->
-<table align="center" width="100%" style="border: 2px solid #ff7700; border-radius: 12px; background: linear-gradient(90deg, #1f0b00 0%, #ff6b00 50%, #1f0b00 100%); margin-bottom: 22px; box-shadow: 0 0 15px rgba(255, 107, 0, 0.4);">
-  <tr>
-    <td align="center" style="padding: 12px 20px;">
-      <h2 style="color: #ffffff; text-shadow: 0 0 10px #ff3b00, 0 0 20px #ff7700; margin: 0; font-size: 21px; letter-spacing: 3px; font-weight: 900;">
-        ⚡ ABOUT ME
-      </h2>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="assets/sec_about.svg" alt="About Me Section Header" width="100%" />
+</div>
+
+<br/>
 
 <!-- Pure High-Res Cyberpunk Terminal Card (Direct PNG Rendering) -->
 <div align="center">
@@ -57,20 +53,13 @@
 <br/>
 
 <!-- ==================== SECTION 2: TECH STACK ==================== -->
-<table align="center" width="100%" style="border: 2px solid #ff7700; border-radius: 12px; background: linear-gradient(90deg, #1f0b00 0%, #ff6b00 50%, #1f0b00 100%); margin-bottom: 22px; box-shadow: 0 0 15px rgba(255, 107, 0, 0.4);">
-  <tr>
-    <td align="center" style="padding: 12px 20px;">
-      <h2 style="color: #ffffff; text-shadow: 0 0 10px #ff3b00, 0 0 20px #ff7700; margin: 0; font-size: 21px; letter-spacing: 3px; font-weight: 900;">
-        🛠️ TECH STACK &amp; ECOSYSTEM
-      </h2>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="assets/sec_tech.svg" alt="Tech Stack Section Header" width="100%" />
+</div>
 
-<table align="center" width="100%" style="border: 2px solid #ff7700; border-radius: 12px; background-color: #0b0c10; margin-bottom: 25px;">
-  <tr>
-    <td style="padding: 20px;">
-      <div align="center">
+<br/>
+
+<div align="center">
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -82,10 +71,7 @@
 | **Databases & Storage** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" /> |
 | **DevOps, Cloud & Tooling** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,gcp&theme=dark" /> |
 
-      </div>
-    </td>
-  </tr>
-</table>
+</div>
 
 <br/>
 
@@ -94,15 +80,11 @@
 <br/>
 
 <!-- ==================== SECTION 3: FEATURED PROJECTS ==================== -->
-<table align="center" width="100%" style="border: 2px solid #ff7700; border-radius: 12px; background: linear-gradient(90deg, #1f0b00 0%, #ff6b00 50%, #1f0b00 100%); margin-bottom: 22px; box-shadow: 0 0 15px rgba(255, 107, 0, 0.4);">
-  <tr>
-    <td align="center" style="padding: 12px 20px;">
-      <h2 style="color: #ffffff; text-shadow: 0 0 10px #ff3b00, 0 0 20px #ff7700; margin: 0; font-size: 21px; letter-spacing: 3px; font-weight: 900;">
-        🌟 FEATURED RESEARCH &amp; PROJECTS
-      </h2>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="assets/sec_projects.svg" alt="Featured Projects Section Header" width="100%" />
+</div>
+
+<br/>
 
 <!-- Project 1: Seoul Bike Sharing Demand Prediction -->
 <table align="center" width="100%" style="border: 2px solid #ff7700; border-radius: 12px; background-color: #0b0c10; margin-bottom: 25px;">
@@ -210,15 +192,11 @@
 <br/>
 
 <!-- ==================== SECTION 4: GITHUB ANALYTICS ==================== -->
-<table align="center" width="100%" style="border: 2px solid #ff7700; border-radius: 12px; background: linear-gradient(90deg, #1f0b00 0%, #ff6b00 50%, #1f0b00 100%); margin-bottom: 22px; box-shadow: 0 0 15px rgba(255, 107, 0, 0.4);">
-  <tr>
-    <td align="center" style="padding: 12px 20px;">
-      <h2 style="color: #ffffff; text-shadow: 0 0 10px #ff3b00, 0 0 20px #ff7700; margin: 0; font-size: 21px; letter-spacing: 3px; font-weight: 900;">
-        📊 GITHUB ANALYTICS &amp; METRICS
-      </h2>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="assets/sec_analytics.svg" alt="GitHub Analytics Section Header" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
   <!-- Stats Card (Custom Dark & Glowing Orange) -->
