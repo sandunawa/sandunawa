@@ -5,14 +5,12 @@
 
 <br/><br/>
 
-<!-- Neon Amber Typing SVG Animation -->
+<!-- Neon Amber Typing SVG Animation (Reliable Heroku Endpoint) -->
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+A.W.A.+Sandun+Wijesingha!+👋;Software+Engineer+%7C+Co-Founder;AI+%26+Machine+Learning+Practitioner;Building+Innovative+Solutions+for+a+Better+Tomorrow">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+A.W.A.+Sandun+Wijesingha!+👋;Software+Engineer+%7C+Co-Founder;AI+%26+Machine+Learning+Practitioner;Building+Innovative+Solutions+for+a+Better+Tomorrow" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+A.W.A.+Sandun+Wijesingha!+👋;Software+Engineer+%7C+Co-Founder;AI+%26+Machine+Learning+Practitioner;Building+Innovative+Solutions+for+a+Better+Tomorrow" alt="Typing SVG" />
 </p>
 
-<!-- Social Connect Badges -->
+<!-- Social Connect Badges (Custom Amber / Charcoal Neon Palette) -->
 <p align="center">
   <a href="https://github.com/sandunawa">
     <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=FF8C00" alt="GitHub" />
@@ -25,7 +23,7 @@
   </a>
 </p>
 
-<!-- Profile Views Counter -->
+<!-- Profile Views Counter in Neon Amber -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sandunawa&label=PROFILE%20VIEWS&color=ff6b00&style=for-the-badge" alt="Profile views" />
 </p>
@@ -35,14 +33,14 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,12,25&height=40&text=⚡%20ABOUT%20ME&fontSize=18&fontColor=ff7700" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0c10&text=⚡%20ABOUT%20ME&fontSize=18&fontColor=ff7700&stroke=ff7700&strokeWidth=1.5&height=42" width="100%" />
 </div>
 
 <br/>
 
-<!-- Pure Vector-Coded Cyberpunk Terminal Card (Matches Requested Design) -->
+<!-- Pure High-Res Cyberpunk Terminal Card (Direct PNG Rendering) -->
 <div align="center">
-  <img src="assets/about_card.svg" alt="About Me Cyberpunk Terminal Card" width="100%" />
+  <img src="assets/about_card.png" alt="About Me Cyberpunk Terminal Card" width="100%" />
 </div>
 
 <br/>
@@ -50,7 +48,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,12,25&height=40&text=🛠️%20TECH%20STACK%20%26%20ECOSYSTEM&fontSize=18&fontColor=ff7700" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0c10&text=🛠️%20TECH%20STACK%20%26%20ECOSYSTEM&fontSize=18&fontColor=ff7700&stroke=ff7700&strokeWidth=1.5&height=42" width="100%" />
 </div>
 
 <br/>
@@ -72,7 +70,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,12,25&height=40&text=🌟%20FEATURED%20RESEARCH%20%26%20PROJECTS&fontSize=18&fontColor=ff7700" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0c10&text=🌟%20FEATURED%20RESEARCH%20%26%20PROJECTS&fontSize=18&fontColor=ff7700&stroke=ff7700&strokeWidth=1.5&height=42" width="100%" />
 </div>
 
 <br/>
@@ -106,7 +104,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,12,25&height=40&text=📊%20GITHUB%20ANALYTICS%20%26%20METRICS&fontSize=18&fontColor=ff7700" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0c10&text=📊%20GITHUB%20ANALYTICS%20%26%20METRICS&fontSize=18&fontColor=ff7700&stroke=ff7700&strokeWidth=1.5&height=42" width="100%" />
 </div>
 
 <br/>
@@ -121,10 +119,6 @@
 <p align="center">
   <!-- Streak Stats (Custom Dark & Glowing Orange) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandunawa&background=0b0c10&stroke=ff7700&sideLabels=ff7700&dates=e0e0e0&ring=ff7700&fire=ff7700&currStreakLabel=ff7700&border=ff7700&border_radius=12" width="98%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandunawa&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
