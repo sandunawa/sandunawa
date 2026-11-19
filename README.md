@@ -76,28 +76,33 @@
 <br/>
 
 <!-- Project 1: Seoul Bike Sharing Demand Prediction -->
-<table border="0" width="100%">
+<table align="center" width="100%" style="border: 2px solid #ff7700; border-radius: 12px; background-color: #0b0c10; margin-bottom: 25px;">
   <tr>
-    <td width="55%" valign="top">
-      <h3>🚲 Seoul Bike Sharing Demand Prediction</h3>
-      <p>
+    <td style="padding: 24px 28px; background: linear-gradient(135deg, #101216 0%, #160d00 100%); border-radius: 10px;">
+      <div style="display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #331800; padding-bottom: 12px; margin-bottom: 14px;">
+        <h2 style="color: #ff8c00; margin: 0; font-size: 21px; letter-spacing: 0.5px;">
+          🚲 Seoul Bike Sharing Demand Prediction
+        </h2>
+        <div>
+          <a href="https://github.com/sandunawa/seoul-bike-demand-prediction-2nd-Year-1st-Sem-AI-ML-Project-">
+            <img src="https://img.shields.io/badge/View_Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+          </a>
+        </div>
+      </div>
+      <p style="color: #d8dde6; font-size: 14.5px; line-height: 1.6; margin-bottom: 16px;">
         An end-to-end Machine Learning research benchmark evaluating <b>6 regression models</b> with strict chronological time-series cross-validation on 8,760 hourly records from UCI.
       </p>
-      <ul>
-        <li><b>Framework:</b> Scikit-Learn, Pandas, NumPy, TimeSeriesSplit</li>
-        <li><b>Benchmark Winner:</b> Random Forest Regressor (Test $R^2 = 0.737$, Test MAE $= 216.80$)</li>
-        <li><b>Report:</b> Full academic paper published directly in repository.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/sandunawa/seoul-bike-demand-prediction-2nd-Year-1st-Sem-AI-ML-Project-">
-          <img src="https://img.shields.io/badge/View_Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
-        </a>
-      </p>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <a href="https://github.com/sandunawa/seoul-bike-demand-prediction-2nd-Year-1st-Sem-AI-ML-Project-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandunawa&repo=seoul-bike-demand-prediction-2nd-Year-1st-Sem-AI-ML-Project-&bg_color=0b0c10&text_color=e0e0e0&icon_color=ff7700&title_color=ff7700&border_color=ff7700" width="100%" />
-      </a>
+      <div style="background-color: #08090b; border-left: 3px solid #ff7700; border-radius: 4px; padding: 12px 18px; margin-bottom: 16px;">
+        <p style="color: #e0e0e0; margin: 4px 0; font-size: 13.5px;"><b>⚡ Framework:</b> Scikit-Learn &bull; Pandas &bull; NumPy &bull; TimeSeriesSplit &bull; Joblib</p>
+        <p style="color: #e0e0e0; margin: 4px 0; font-size: 13.5px;"><b>🏆 Benchmark Winner:</b> Random Forest Regressor (<span style="color: #ffaa44;">Test R² = 0.737</span>, <span style="color: #ffaa44;">Test MAE = 216.80</span>)</p>
+        <p style="color: #e0e0e0; margin: 4px 0; font-size: 13.5px;"><b>📄 Academic Publication:</b> Full project research report included directly in repository</p>
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/Python-121212?style=flat-square&logo=python&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-121212?style=flat-square&logo=scikit-learn&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
+        <img src="https://img.shields.io/badge/Pandas-121212?style=flat-square&logo=pandas&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
+        <img src="https://img.shields.io/badge/Regression-121212?style=flat-square&logo=jupyter&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
+      </div>
     </td>
   </tr>
 </table>
@@ -105,28 +110,33 @@
 <br/>
 
 <!-- Project 2: Sinhala LMS -->
-<table border="0" width="100%">
+<table align="center" width="100%" style="border: 2px solid #ff7700; border-radius: 12px; background-color: #0b0c10; margin-bottom: 25px;">
   <tr>
-    <td width="55%" valign="top">
-      <h3>🎓 Sinhala Education LMS & Tuition SaaS Platform</h3>
-      <p>
+    <td style="padding: 24px 28px; background: linear-gradient(135deg, #101216 0%, #160d00 100%); border-radius: 10px;">
+      <div style="display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #331800; padding-bottom: 12px; margin-bottom: 14px;">
+        <h2 style="color: #ff8c00; margin: 0; font-size: 21px; letter-spacing: 0.5px;">
+          🎓 Sinhala Education LMS &amp; Tuition SaaS Platform
+        </h2>
+        <div>
+          <a href="https://github.com/sandunawa/sinhala-lms">
+            <img src="https://img.shields.io/badge/View_Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+          </a>
+        </div>
+      </div>
+      <p style="color: #d8dde6; font-size: 14.5px; line-height: 1.6; margin-bottom: 16px;">
         A modern, production-grade Educational SaaS platform and Learning Management System designed for professional educators managing Grade 6–11 (O/L) and A/L Sinhala curriculums.
       </p>
-      <ul>
-        <li><b>Tech Stack:</b> React 18, TypeScript, Vite, Tailwind CSS, Firebase Architecture</li>
-        <li><b>Key Modules:</b> Live QR Gate Attendance Scanner, Timed Exam Engine with Auto-Grading, AI Sinhala Tutor, Video Lesson Streaming & Fee Slip Verification</li>
-        <li><b>Portals:</b> Multi-role architecture for Admin, Students, and Parents</li>
-      </ul>
-      <p>
-        <a href="https://github.com/sandunawa/sinhala-lms">
-          <img src="https://img.shields.io/badge/View_Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
-        </a>
-      </p>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <a href="https://github.com/sandunawa/sinhala-lms">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandunawa&repo=sinhala-lms&bg_color=0b0c10&text_color=e0e0e0&icon_color=ff7700&title_color=ff7700&border_color=ff7700" width="100%" />
-      </a>
+      <div style="background-color: #08090b; border-left: 3px solid #ff7700; border-radius: 4px; padding: 12px 18px; margin-bottom: 16px;">
+        <p style="color: #e0e0e0; margin: 4px 0; font-size: 13.5px;"><b>⚡ Tech Stack:</b> React 18 &bull; TypeScript &bull; Vite &bull; Tailwind CSS &bull; Firebase Architecture</p>
+        <p style="color: #e0e0e0; margin: 4px 0; font-size: 13.5px;"><b>🚀 Key Modules:</b> Live QR Gate Attendance Scanner &bull; Timed Exam Engine with Auto-Grading &bull; AI Sinhala Grammar Tutor</p>
+        <p style="color: #e0e0e0; margin: 4px 0; font-size: 13.5px;"><b>👥 Multi-Role Portals:</b> Independent secure portals for Administrators, Students, and Parents</p>
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/React_18-121212?style=flat-square&logo=react&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
+        <img src="https://img.shields.io/badge/TypeScript-121212?style=flat-square&logo=typescript&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-121212?style=flat-square&logo=tailwindcss&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
+        <img src="https://img.shields.io/badge/Vite-121212?style=flat-square&logo=vite&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
+      </div>
     </td>
   </tr>
 </table>
@@ -134,28 +144,32 @@
 <br/>
 
 <!-- Project 3: Hela Rewla -->
-<table border="0" width="100%">
+<table align="center" width="100%" style="border: 2px solid #ff7700; border-radius: 12px; background-color: #0b0c10; margin-bottom: 25px;">
   <tr>
-    <td width="55%" valign="top">
-      <h3>💈 Hela Rewla – Premium Grooming & Booking Management Platform</h3>
-      <p>
+    <td style="padding: 24px 28px; background: linear-gradient(135deg, #101216 0%, #160d00 100%); border-radius: 10px;">
+      <div style="display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #331800; padding-bottom: 12px; margin-bottom: 14px;">
+        <h2 style="color: #ff8c00; margin: 0; font-size: 21px; letter-spacing: 0.5px;">
+          💈 Hela Rewla – Premium Grooming &amp; Booking Management Platform
+        </h2>
+        <div>
+          <a href="https://github.com/sandunawa/hela_rewla">
+            <img src="https://img.shields.io/badge/View_Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+          </a>
+        </div>
+      </div>
+      <p style="color: #d8dde6; font-size: 14.5px; line-height: 1.6; margin-bottom: 16px;">
         A dedicated digital booking, customer management, and operations platform crafted for modern barbering and salon enterprises, elevating client experience through seamless scheduling.
       </p>
-      <ul>
-        <li><b>Key Capabilities:</b> Real-time appointment scheduling, service catalog customization, automated client reminders, and barber workflow management</li>
-        <li><b>Architecture:</b> Mobile-responsive interface with fast booking workflows and secure client record tracking</li>
-        <li><b>Focus:</b> Streamlined salon operations, reducing scheduling conflicts and increasing customer retention</li>
-      </ul>
-      <p>
-        <a href="https://github.com/sandunawa/hela_rewla">
-          <img src="https://img.shields.io/badge/View_Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
-        </a>
-      </p>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <a href="https://github.com/sandunawa/hela_rewla">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandunawa&repo=hela_rewla&bg_color=0b0c10&text_color=e0e0e0&icon_color=ff7700&title_color=ff7700&border_color=ff7700" width="100%" />
-      </a>
+      <div style="background-color: #08090b; border-left: 3px solid #ff7700; border-radius: 4px; padding: 12px 18px; margin-bottom: 16px;">
+        <p style="color: #e0e0e0; margin: 4px 0; font-size: 13.5px;"><b>⚡ Core Capabilities:</b> Real-time appointment scheduling &bull; Dynamic service catalog &bull; Automated client reminders</p>
+        <p style="color: #e0e0e0; margin: 4px 0; font-size: 13.5px;"><b>📱 User Experience:</b> Mobile-first responsive UI &bull; Fast client checkouts &bull; Stylist schedule management</p>
+        <p style="color: #e0e0e0; margin: 4px 0; font-size: 13.5px;"><b>🎯 Mission:</b> Optimizing salon booking flows, zero scheduling conflicts, and maximized customer retention</p>
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/Booking_Platform-121212?style=flat-square&logo=googlecalendar&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
+        <img src="https://img.shields.io/badge/Full_Stack-121212?style=flat-square&logo=javascript&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
+        <img src="https://img.shields.io/badge/Mobile_First-121212?style=flat-square&logo=flutter&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
+      </div>
     </td>
   </tr>
 </table>
