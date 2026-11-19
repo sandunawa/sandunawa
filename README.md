@@ -34,11 +34,13 @@
 
 <br/>
 
-<!-- Section 1: About Me -->
-<table align="center" width="100%" style="border-collapse: collapse; margin-bottom: 20px;">
+<!-- ==================== SECTION 1: ABOUT ME ==================== -->
+<table align="center" width="100%" style="border: 2px solid #ff7700; border-radius: 12px; background: linear-gradient(90deg, #1f0b00 0%, #ff6b00 50%, #1f0b00 100%); margin-bottom: 22px; box-shadow: 0 0 15px rgba(255, 107, 0, 0.4);">
   <tr>
-    <td align="center" style="background: linear-gradient(90deg, #101216 0%, #1a0f00 50%, #101216 100%); border: 1.5px solid #ff7700; border-radius: 8px; padding: 10px;">
-      <h2 style="color: #ff8c00; margin: 0; font-size: 19px; letter-spacing: 2px;">⚡ ABOUT ME</h2>
+    <td align="center" style="padding: 12px 20px;">
+      <h2 style="color: #ffffff; text-shadow: 0 0 10px #ff3b00, 0 0 20px #ff7700; margin: 0; font-size: 21px; letter-spacing: 3px; font-weight: 900;">
+        ⚡ ABOUT ME
+      </h2>
     </td>
   </tr>
 </table>
@@ -54,16 +56,21 @@
 
 <br/>
 
-<!-- Section 2: Tech Stack -->
-<table align="center" width="100%" style="border-collapse: collapse; margin-bottom: 20px;">
+<!-- ==================== SECTION 2: TECH STACK ==================== -->
+<table align="center" width="100%" style="border: 2px solid #ff7700; border-radius: 12px; background: linear-gradient(90deg, #1f0b00 0%, #ff6b00 50%, #1f0b00 100%); margin-bottom: 22px; box-shadow: 0 0 15px rgba(255, 107, 0, 0.4);">
   <tr>
-    <td align="center" style="background: linear-gradient(90deg, #101216 0%, #1a0f00 50%, #101216 100%); border: 1.5px solid #ff7700; border-radius: 8px; padding: 10px;">
-      <h2 style="color: #ff8c00; margin: 0; font-size: 19px; letter-spacing: 2px;">🛠️ TECH STACK &amp; ECOSYSTEM</h2>
+    <td align="center" style="padding: 12px 20px;">
+      <h2 style="color: #ffffff; text-shadow: 0 0 10px #ff3b00, 0 0 20px #ff7700; margin: 0; font-size: 21px; letter-spacing: 3px; font-weight: 900;">
+        🛠️ TECH STACK &amp; ECOSYSTEM
+      </h2>
     </td>
   </tr>
 </table>
 
-<div align="center">
+<table align="center" width="100%" style="border: 2px solid #ff7700; border-radius: 12px; background-color: #0b0c10; margin-bottom: 25px;">
+  <tr>
+    <td style="padding: 20px;">
+      <div align="center">
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -75,7 +82,10 @@
 | **Databases & Storage** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" /> |
 | **DevOps, Cloud & Tooling** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,gcp&theme=dark" /> |
 
-</div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -83,11 +93,13 @@
 
 <br/>
 
-<!-- Section 3: Featured Projects -->
-<table align="center" width="100%" style="border-collapse: collapse; margin-bottom: 20px;">
+<!-- ==================== SECTION 3: FEATURED PROJECTS ==================== -->
+<table align="center" width="100%" style="border: 2px solid #ff7700; border-radius: 12px; background: linear-gradient(90deg, #1f0b00 0%, #ff6b00 50%, #1f0b00 100%); margin-bottom: 22px; box-shadow: 0 0 15px rgba(255, 107, 0, 0.4);">
   <tr>
-    <td align="center" style="background: linear-gradient(90deg, #101216 0%, #1a0f00 50%, #101216 100%); border: 1.5px solid #ff7700; border-radius: 8px; padding: 10px;">
-      <h2 style="color: #ff8c00; margin: 0; font-size: 19px; letter-spacing: 2px;">🌟 FEATURED RESEARCH &amp; PROJECTS</h2>
+    <td align="center" style="padding: 12px 20px;">
+      <h2 style="color: #ffffff; text-shadow: 0 0 10px #ff3b00, 0 0 20px #ff7700; margin: 0; font-size: 21px; letter-spacing: 3px; font-weight: 900;">
+        🌟 FEATURED RESEARCH &amp; PROJECTS
+      </h2>
     </td>
   </tr>
 </table>
@@ -197,11 +209,13 @@
 
 <br/>
 
-<!-- Section 4: GitHub Analytics -->
-<table align="center" width="100%" style="border-collapse: collapse; margin-bottom: 20px;">
+<!-- ==================== SECTION 4: GITHUB ANALYTICS ==================== -->
+<table align="center" width="100%" style="border: 2px solid #ff7700; border-radius: 12px; background: linear-gradient(90deg, #1f0b00 0%, #ff6b00 50%, #1f0b00 100%); margin-bottom: 22px; box-shadow: 0 0 15px rgba(255, 107, 0, 0.4);">
   <tr>
-    <td align="center" style="background: linear-gradient(90deg, #101216 0%, #1a0f00 50%, #101216 100%); border: 1.5px solid #ff7700; border-radius: 8px; padding: 10px;">
-      <h2 style="color: #ff8c00; margin: 0; font-size: 19px; letter-spacing: 2px;">📊 GITHUB ANALYTICS &amp; METRICS</h2>
+    <td align="center" style="padding: 12px 20px;">
+      <h2 style="color: #ffffff; text-shadow: 0 0 10px #ff3b00, 0 0 20px #ff7700; margin: 0; font-size: 21px; letter-spacing: 3px; font-weight: 900;">
+        📊 GITHUB ANALYTICS &amp; METRICS
+      </h2>
     </td>
   </tr>
 </table>
