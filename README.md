@@ -5,9 +5,9 @@
 
 <br/><br/>
 
-<!-- Neon Amber Typing SVG Animation (Reliable Heroku Endpoint) -->
+<!-- Neon Amber Typing SVG Animation (Refined with SLIIT Degree & Motto) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+A.W.A.+Sandun+Wijesingha!+👋;Software+Engineer+%7C+Co-Founder;AI+%26+Machine+Learning+Practitioner;Building+Innovative+Solutions+for+a+Better+Tomorrow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=3200&pause=1100&color=FF6B00&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+A.W.A.+Sandun+Wijesingha!+👋;B.Sc.+(Hons)+in+Information+Technology+Undergraduate+%40+SLIIT+🎓;Building+Innovative+Solutions+for+a+Better+Tomorrow+✨" alt="Typing SVG" />
 </p>
 
 <!-- Social Connect Badges (Custom Amber / Charcoal Neon Palette) -->
@@ -68,10 +68,10 @@
 
 <br/>
 
-### 🎓 B.Sc. (Hons) in Information Technology – AI Specialization &nbsp;|&nbsp; `2024 – Present`
+### 🎓 B.Sc. (Hons) in Information Technology &nbsp;|&nbsp; `2024 – Present`
 > **Sri Lanka Institute of Information Technology (SLIIT) • Faculty of Computing**
-* **Core Domains:** Machine Learning regression & classification, algorithm design, data structures, and distributed software systems.
-* **Empirical Research:** Conducting real-world ML benchmarks with strict chronological time-series cross-validation and leakage-safe pipelines.
+* **Degree Specialization:** Bachelor of Science Honours in Information Technology Specialized in Information Technology.
+* **Core Domains & Research:** Software Engineering, Full-Stack Architecture, Machine Learning pipelines, and Distributed Systems.
 
 <br/>
 
