@@ -5,9 +5,9 @@
 
 <br/><br/>
 
-<!-- Neon Amber Typing SVG Animation (Refined with SLIIT Degree & Motto) -->
+<!-- Neon Amber Typing SVG Animation (Increased font size & removed waving hand icon) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=3200&pause=1100&color=FF6B00&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+A.W.A.+Sandun+Wijesingha!+👋;B.Sc.+(Hons)+in+Information+Technology+Undergraduate+%40+SLIIT+🎓;Building+Innovative+Solutions+for+a+Better+Tomorrow+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3200&pause=1100&color=FF6B00&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+A.W.A.+Sandun+Wijesingha!;B.Sc.+(Hons)+in+Information+Technology+Undergraduate+%40+SLIIT+🎓;Building+Innovative+Solutions+for+a+Better+Tomorrow+✨" alt="Typing SVG" />
 </p>
 
 <!-- Social Connect Badges (Custom Amber / Charcoal Neon Palette) -->
