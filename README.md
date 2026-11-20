@@ -59,57 +59,19 @@
 
 <br/>
 
-<table align="center" width="100%" style="border: 2px solid #ff7700; border-radius: 12px; background-color: #0b0c10; margin-bottom: 25px;">
-  <tr>
-    <td style="padding: 24px 28px; background: linear-gradient(135deg, #101216 0%, #160d00 100%); border-radius: 10px;">
-      
-      <!-- Milestone 1: Co-Founder & Tech Lead -->
-      <table width="100%" style="border-collapse: collapse; margin-bottom: 18px;">
-        <tr>
-          <td width="4%" valign="top" style="padding-top: 4px;">
-            <div style="width: 14px; height: 14px; border-radius: 50%; background: #ff7700; box-shadow: 0 0 10px #ff7700;"></div>
-          </td>
-          <td width="96%" style="padding-left: 12px;">
-            <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-              <h3 style="color: #ff8c00; margin: 0; font-size: 17.5px;">🚀 Co-Founder &amp; Tech Lead</h3>
-              <span style="background: #1f0b00; border: 1px solid #ff7700; color: #ffaa44; font-size: 12px; font-weight: bold; padding: 3px 10px; border-radius: 20px;">
-                2024 – Present
-              </span>
-            </div>
-            <p style="color: #ffffff; font-weight: 600; margin: 4px 0 6px 0; font-size: 14px;">Independent Software Engineering &amp; Bespoke Digital Ventures</p>
-            <p style="color: #c8d0dc; font-size: 13.5px; line-height: 1.55; margin: 0;">
-              Architecting production-grade digital platforms from ideation to deployment. Spearheading technical delivery for flagship products including <b>Hela Rewla Katagessama</b> (Authentic Restaurant &amp; Online Food Ordering Platform) and <b>Sinhala LMS</b> (Modern Educational Tuition SaaS with QR Attendance &amp; AI Tutors).
-            </p>
-          </td>
-        </tr>
-      </table>
+### 🚀 Co-Founder & Tech Lead &nbsp;|&nbsp; `2024 – Present`
+> **Independent Software Engineering & Bespoke Digital Ventures**
+* **Technical Architecture:** Architecting production-grade digital platforms from ideation to deployment.
+* **Flagship Products:**
+  * 🍲 **Hela Rewla Katagessama:** Traditional Authentic Restaurant & Online Food Ordering Platform.
+  * 🎓 **Sinhala LMS:** Modern Educational Tuition SaaS with QR Attendance Scanner & AI Tutors.
 
-      <hr style="border: 0; height: 1px; background: linear-gradient(90deg, transparent, #331800, transparent); margin: 18px 0;">
+<br/>
 
-      <!-- Milestone 2: Undergraduate Degree -->
-      <table width="100%" style="border-collapse: collapse;">
-        <tr>
-          <td width="4%" valign="top" style="padding-top: 4px;">
-            <div style="width: 14px; height: 14px; border-radius: 50%; background: #ffaa00; box-shadow: 0 0 10px #ffaa00;"></div>
-          </td>
-          <td width="96%" style="padding-left: 12px;">
-            <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-              <h3 style="color: #ff8c00; margin: 0; font-size: 17.5px;">🎓 B.Sc. (Hons) in Information Technology – AI Specialization</h3>
-              <span style="background: #1f0b00; border: 1px solid #ff7700; color: #ffaa44; font-size: 12px; font-weight: bold; padding: 3px 10px; border-radius: 20px;">
-                2024 – Present
-              </span>
-            </div>
-            <p style="color: #ffffff; font-weight: 600; margin: 4px 0 6px 0; font-size: 14px;">Sri Lanka Institute of Information Technology (SLIIT) &bull; Faculty of Computing</p>
-            <p style="color: #c8d0dc; font-size: 13.5px; line-height: 1.55; margin: 0;">
-              Rigorous academic focus on Machine Learning algorithm design, time-series regression modelling, data structures, and distributed software systems. Actively conducting empirical ML benchmarking with strict leakage-safe validation protocols.
-            </p>
-          </td>
-        </tr>
-      </table>
-
-    </td>
-  </tr>
-</table>
+### 🎓 B.Sc. (Hons) in Information Technology – AI Specialization &nbsp;|&nbsp; `2024 – Present`
+> **Sri Lanka Institute of Information Technology (SLIIT) • Faculty of Computing**
+* **Core Domains:** Machine Learning regression & classification, algorithm design, data structures, and distributed software systems.
+* **Empirical Research:** Conducting real-world ML benchmarks with strict chronological time-series cross-validation and leakage-safe pipelines.
 
 <br/>
 
