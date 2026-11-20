@@ -206,8 +206,8 @@
 </div>
 
 <p align="center">
-  <!-- Streak Stats (Custom Dark & Glowing Orange) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandunawa&background=0b0c10&stroke=ff7700&sideLabels=ff7700&dates=e0e0e0&ring=ff7700&fire=ff7700&currStreakLabel=ff7700&border=ff7700&border_radius=12" width="98%" alt="GitHub Streak" />
+  <!-- Streak Stats (Numbers clearly rendered in Crisp White #ffffff) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandunawa&background=0b0c10&stroke=ff7700&sideLabels=ff7700&dates=e0e0e0&ring=ff7700&fire=ff7700&currStreakLabel=ff7700&currStreakNum=ffffff&sideNums=ffffff&border=ff7700&border_radius=12" width="98%" alt="GitHub Streak" />
 </p>
 
 <br/>
