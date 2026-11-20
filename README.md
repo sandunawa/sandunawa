@@ -223,41 +223,26 @@
 
 <br/>
 
-<table align="center" width="100%" style="border: 2px solid #ff7700; border-radius: 12px; background-color: #0b0c10; margin-bottom: 25px;">
-  <tr>
-    <td align="center" style="padding: 26px 30px; background: linear-gradient(135deg, #101216 0%, #160d00 100%); border-radius: 10px;">
-      <h3 style="color: #ffffff; margin-top: 0; font-size: 20px;">
-        Have a project idea, startup collaboration, or tech discussion?
-      </h3>
-      <p style="color: #d0d6e0; font-size: 14.5px; max-width: 650px; line-height: 1.6; margin-bottom: 24px;">
-        I'm always open to discussing <b>Machine Learning architectures, Full-Stack applications</b>, or partnering on innovative digital products. Feel free to reach out via any platform below!
-      </p>
-      
-      <p align="center">
-        <!-- LinkedIn -->
-        <a href="https://linkedin.com">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        &nbsp;&nbsp;
-        <!-- Email -->
-        <a href="mailto:sandun@example.com">
-          <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-        &nbsp;&nbsp;
-        <!-- GitHub Direct Follow -->
-        <a href="https://github.com/sandunawa?tab=followers">
-          <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
-        </a>
-      </p>
+<div align="center">
 
-      <div style="margin-top: 20px; border-top: 1px solid #331800; padding-top: 16px;">
-        <p style="color: #ffaa44; font-size: 13px; font-weight: 600; margin: 0;">
-          📍 Colombo, Sri Lanka 🇱🇰 &bull; ⚡ Quick Response &bull; 🚀 Open to High-Impact Opportunities
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
+### Have a project idea, startup collaboration, or tech discussion?
+**I'm always open to discussing Machine Learning architectures, Full-Stack applications, or partnering on innovative digital products.**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+&nbsp;&nbsp;
+[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandun@example.com)
+&nbsp;&nbsp;
+[![Follow on GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunawa?tab=followers)
+
+<br/><br/>
+
+`📍 Colombo, Sri Lanka 🇱🇰` &nbsp;&bull;&nbsp; `⚡ Quick Response` &nbsp;&bull;&nbsp; `🚀 Open to High-Impact Opportunities`
+
+</div>
+
+<br/>
 
 ---
 
