@@ -5,9 +5,9 @@
 
 <br/><br/>
 
-<!-- Neon Amber Typing SVG Animation (Increased font size & removed waving hand icon) -->
+<!-- Neon Amber Typing SVG Animation (Expanded viewport width & calibrated font size so no letters get clipped) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3200&pause=1100&color=FF6B00&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+A.W.A.+Sandun+Wijesingha!;B.Sc.+(Hons)+in+Information+Technology+Undergraduate+%40+SLIIT+🎓;Building+Innovative+Solutions+for+a+Better+Tomorrow+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=1100&color=FF6B00&center=true&vCenter=true&width=920&lines=Hi%2C+I'm+A.W.A.+Sandun+Wijesingha!;B.Sc.+(Hons)+in+Information+Technology+Undergraduate+%40+SLIIT+🎓;Building+Innovative+Solutions+for+a+Better+Tomorrow+✨" alt="Typing SVG" width="100%" style="max-width: 920px;" />
 </p>
 
 <!-- Social Connect Badges (Custom Amber / Charcoal Neon Palette) -->
