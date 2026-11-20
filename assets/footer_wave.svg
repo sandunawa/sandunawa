@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="950" height="110" viewBox="0 0 950 110">
+  <defs>
+    <!-- Deep Neon Orange & Dark Ember Gradients -->
+    <linearGradient id="waveGradFront" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#140700"/>
+      <stop offset="25%" stop-color="#ff5500"/>
+      <stop offset="50%" stop-color="#ff8800"/>
+      <stop offset="75%" stop-color="#ff4400"/>
+      <stop offset="100%" stop-color="#0a0500"/>
+    </linearGradient>
+
+    <linearGradient id="waveGradBack" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a0500" stop-opacity="0.6"/>
+      <stop offset="35%" stop-color="#ff7700" stop-opacity="0.4"/>
+      <stop offset="70%" stop-color="#ffaa00" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#140700" stop-opacity="0.5"/>
+    </linearGradient>
+
+    <!-- Glowing top border stroke for the wave -->
+    <linearGradient id="waveStroke" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff4400" stop-opacity="0.3"/>
+      <stop offset="30%" stop-color="#ff7700" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#ffa500" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#ff6600" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ff3300" stop-opacity="0.3"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background Wave (Secondary Ripple) -->
+  <path d="M 0 50 Q 240 10 480 50 T 950 50 L 950 110 L 0 110 Z" fill="url(#waveGradBack)"/>
+
+  <!-- Foreground Wave (Primary Glowing Orange Ribbon) -->
+  <path d="M 0 65 Q 230 110 475 60 T 950 65 L 950 110 L 0 110 Z" fill="url(#waveGradFront)"/>
+
+  <!-- Glowing Accent Rim Path -->
+  <path d="M 0 65 Q 230 110 475 60 T 950 65" fill="none" stroke="url(#waveStroke)" stroke-width="2.5"/>
+</svg>

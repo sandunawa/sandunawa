@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="950" height="52" viewBox="0 0 950 52">
+  <defs>
+    <linearGradient id="headerGradJourney" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#140700"/>
+      <stop offset="35%" stop-color="#ff6b00"/>
+      <stop offset="50%" stop-color="#ffa500"/>
+      <stop offset="65%" stop-color="#ff6b00"/>
+      <stop offset="100%" stop-color="#140700"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="946" height="48" rx="8" fill="url(#headerGradJourney)" stroke="#ff7700" stroke-width="2"/>
+  <text x="475" y="33" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="20" font-weight="900" fill="#ffffff" letter-spacing="3.5">
+    🗺️ EDUCATION &amp; CAREER JOURNEY
+  </text>
+</svg>
