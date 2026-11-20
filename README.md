@@ -230,6 +230,7 @@
 
 <br/>
 
+<!-- Clickable Professional Action Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-w-a-sandun-707583388/)
 &nbsp;&nbsp;
 [![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awasandun95@gmail.com)
@@ -238,7 +239,14 @@
 
 <br/><br/>
 
-`📍 Colombo, Sri Lanka 🇱🇰` &nbsp;&bull;&nbsp; `⚡ Quick Response` &nbsp;&bull;&nbsp; `🚀 Open to High-Impact Opportunities`
+<!-- Sleek Cyberpunk Status Pills -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Colombo%2C%20Sri%20Lanka%20🇱🇰-121212?style=for-the-badge&logo=googlemaps&logoColor=FF8C00&color=121212&labelColor=1a0f00" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Response%20Time-⚡%20Quick%20Turnaround-121212?style=for-the-badge&logo=lightning&logoColor=FF8C00&color=121212&labelColor=1a0f00" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Opportunities-🚀%20Open%20to%20Collaborate-121212?style=for-the-badge&logo=rocket&logoColor=FF8C00&color=121212&labelColor=1a0f00" />
+</p>
 
 </div>
 
