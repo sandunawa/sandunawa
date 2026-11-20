@@ -15,10 +15,10 @@
   <a href="https://github.com/sandunawa">
     <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=FF8C00" alt="GitHub" />
   </a>
-  <a href="mailto:sandun@example.com">
+  <a href="mailto:awasandun95@gmail.com">
     <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=FF8C00" alt="Email" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/a-w-a-sandun-707583388/">
     <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=FF8C00" alt="LinkedIn" />
   </a>
 </p>
@@ -230,11 +230,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-w-a-sandun-707583388/)
 &nbsp;&nbsp;
-[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandun@example.com)
+[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awasandun95@gmail.com)
 &nbsp;&nbsp;
-[![Follow on GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunawa?tab=followers)
+[![Follow on GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunawa)
 
 <br/><br/>
 
