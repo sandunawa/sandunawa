@@ -136,10 +136,15 @@
         <p style="color: #e0e0e0; margin: 4px 0; font-size: 13.5px;"><b>📄 Academic Publication:</b> Full project research report included directly in repository</p>
       </div>
       <div>
-        <img src="https://img.shields.io/badge/Python-121212?style=flat-square&logo=python&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-121212?style=flat-square&logo=scikit-learn&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
-        <img src="https://img.shields.io/badge/Pandas-121212?style=flat-square&logo=pandas&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
-        <img src="https://img.shields.io/badge/Regression-121212?style=flat-square&logo=jupyter&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
+        <img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=FF8C00" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/scikit_learn-121212?style=for-the-badge&logo=scikit-learn&logoColor=FF8C00" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Pandas-121212?style=for-the-badge&logo=pandas&logoColor=FF8C00" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/NumPy-121212?style=for-the-badge&logo=numpy&logoColor=FF8C00" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/TimeSeriesSplit-121212?style=for-the-badge&logo=jupyter&logoColor=FF8C00" />
       </div>
     </td>
   </tr>
@@ -170,10 +175,15 @@
         <p style="color: #e0e0e0; margin: 4px 0; font-size: 13.5px;"><b>👥 Multi-Role Portals:</b> Independent secure portals for Administrators, Students, and Parents</p>
       </div>
       <div>
-        <img src="https://img.shields.io/badge/React_18-121212?style=flat-square&logo=react&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
-        <img src="https://img.shields.io/badge/TypeScript-121212?style=flat-square&logo=typescript&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-121212?style=flat-square&logo=tailwindcss&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
-        <img src="https://img.shields.io/badge/Vite-121212?style=flat-square&logo=vite&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
+        <img src="https://img.shields.io/badge/React_18-121212?style=for-the-badge&logo=react&logoColor=FF8C00" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=FF8C00" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Tailwind_CSS-121212?style=for-the-badge&logo=tailwindcss&logoColor=FF8C00" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Vite-121212?style=for-the-badge&logo=vite&logoColor=FF8C00" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Firebase-121212?style=for-the-badge&logo=firebase&logoColor=FF8C00" />
       </div>
     </td>
   </tr>
@@ -204,9 +214,11 @@
         <p style="color: #e0e0e0; margin: 4px 0; font-size: 13.5px;"><b>🎨 Presentation:</b> Cultural rustic aesthetic combined with modern responsive food ordering workflows</p>
       </div>
       <div>
-        <img src="https://img.shields.io/badge/Restaurant_Web_App-121212?style=flat-square&logo=food&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
-        <img src="https://img.shields.io/badge/Online_Ordering-121212?style=flat-square&logo=fastapi&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
-        <img src="https://img.shields.io/badge/Authentic_Cuisine-121212?style=flat-square&logo=coffeescript&logoColor=FF8C00&color=121212&labelColor=FF6B00" />
+        <img src="https://img.shields.io/badge/Restaurant_Web_App-121212?style=for-the-badge&logo=fastapi&logoColor=FF8C00" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Online_Ordering-121212?style=for-the-badge&logo=googlechrome&logoColor=FF8C00" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Authentic_Cuisine-121212?style=for-the-badge&logo=coffeescript&logoColor=FF8C00" />
       </div>
     </td>
   </tr>
